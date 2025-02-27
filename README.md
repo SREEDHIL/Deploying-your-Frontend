@@ -1,1 +1,1 @@
-Deployed link : 
+Deployed link : deploying-frontend.netlify.app
